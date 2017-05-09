@@ -196,3 +196,4 @@ To enable Pushover integration, you will need to:
   `PUSHOVER_API_TOKEN` and `PUSHOVER_SUBSCRIPTION_URL`
 
 just adding something for testing purposes
+more changes for practice
